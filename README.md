@@ -13,6 +13,8 @@ La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en est
 Para realizar esta practica necesitas lo siguiente
 
 - [WOKWI](https://https://wokwi.com/)
+- Tarjeta ESP 32
+- Sensor DHT11
 
 
 
